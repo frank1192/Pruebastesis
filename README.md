@@ -25,7 +25,7 @@ Sistema de gestión desarrollado con React.js + Vite en el frontend y Django + P
 - **React Router DOM** 7.x - Enrutamiento
 
 ### Backend
-- **Django** 5.2 - Framework web
+- **Django** 5.2.8 - Framework web
 - **Django REST Framework** 3.16.0 - APIs RESTful
 - **Python** 3.12+ - Lenguaje de programación
 - **PostgreSQL** 17.4 - Base de Datos Relacional
